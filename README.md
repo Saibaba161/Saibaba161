@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saibaba161
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN Stack
+- 👀 Freelancer
+- 🌱 Experienced in Frontend & knows a bit of backend
 - 📫 How to reach me kothasaibaba460@gmail.com
 
 <!---
